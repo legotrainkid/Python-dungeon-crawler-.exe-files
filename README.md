@@ -1,4 +1,5 @@
 # Python dungeon crawler .exe files
+For Windows 10 (64 bit)
  
 Python Dungeon Crawler Executible:
 
