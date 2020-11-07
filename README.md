@@ -1,3 +1,11 @@
 # Python dungeon crawler .exe files
  
-Python Dungeon Crawler Executible
+Python Dungeon Crawler Executible:
+
+To run double click the shortcut, click the
+play button, and defeat all the enemies. The
+number of enemies left is in the top middle.
+To attack, left click on enemy for a melee attack,
+right click to fire an arrow at the cursor.
+
+Good Luck!
